@@ -1,0 +1,38 @@
+{
+  "name": "react-users-profile-card",
+  "version": "1.0.0-alpha",
+  "description": "This is a user profile card app making use of JavaScript Fetch API as well as React JS Components, State, along with some nice CSS styling.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@fontsource/poppins": "^4.5.0",
+    "@iconify/react": "^3.1.0",
+    "apexcharts": "^3.30.0",
+    "bootstrap": "^5.1.3",
+    "isomorphic-fetch": "3.0.0",
+    "react": "^17.0.2",
+    "react-apexcharts": "^1.3.9",
+    "react-bootstrap": "^2.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.0.2",
+    "react-scripts": "next",
+    "sass": "^1.43.5",
+    "styled-components": "^5.3.3",
+    "victory": "^36.2.0"
+  },
+  "devDependencies": {
+    "typescript": "4.5.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

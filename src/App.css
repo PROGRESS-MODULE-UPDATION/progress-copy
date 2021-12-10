@@ -1,0 +1,29 @@
+.Col{
+    margin-bottom: 15px ;
+}
+
+.App , body{
+
+margin-top: 25px;
+}
+
+.comment  {
+    text-align: center;
+    padding: 15px;
+    background-color:rgb(255, 174, 0) ;
+    border-radius: 5px;
+}
+.atquiz  {
+    text-align: center;
+    padding: 15px;
+    background-color:#525252 ;
+    border-radius: 5px;
+}
+.atcourse {
+    text-align: center;
+    padding: 15px;
+    background-color:#525252 ;
+    border-radius: 5px;
+}
+
+
