@@ -8,6 +8,7 @@ import {
 import  '../App.css';
 const GridSystem = ({colCount, children, md}) => {
     let rowCount = Math.floor(children.length / colCount)
+    
     let index = 0
 
     const buildGrid = () => {

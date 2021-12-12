@@ -10,20 +10,35 @@ margin-top: 25px;
 .comment  {
     text-align: center;
     padding: 15px;
-    background-color:rgb(255, 174, 0) ;
+    background-image: linear-gradient(yellow,white) ;
+    color: black;
     border-radius: 5px;
 }
 .atquiz  {
     text-align: center;
     padding: 15px;
-    background-color:#525252 ;
+    background-color:#222222 ;
+    border : 2px solid grey;
     border-radius: 5px;
 }
 .atcourse {
     text-align: center;
     padding: 15px;
-    background-color:#525252 ;
+    background-color:#222222 ;
+    border : 2px solid grey;
     border-radius: 5px;
 }
 
+.sub{
+    
+    text-align: left;
+    padding: 15px;
+    background-color:#222222 ;
+    border : 2px solid grey;
+    border-radius: 5px; 
+    
+}
 
+.styling{
+    color:grey;
+}
